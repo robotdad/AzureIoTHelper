@@ -1,0 +1,1 @@
+This is just a copy of the generated files from the Azure IoT Connected Service extension since it does not work with VS2017 today.
